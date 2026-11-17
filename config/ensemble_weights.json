@@ -1,0 +1,39 @@
+{
+  "benchmark": "3 Metrica sample matches degraded with noise v3 (seed=0; model-training out-of-sample, weights grid-selected on these 3 matches)",
+  "mode": "visibility_gated",
+  "pathcrf_readout": "crf_src",
+  "pathcrf_switch_delay_s": 1.0,
+  "pathcrf_stride_seconds": 10.0,
+  "w_home_visible": {
+    "tcn_A": 0.4875,
+    "hgb_A": 0.2625,
+    "pathcrf": 0.25
+  },
+  "w_home_occluded": {
+    "tcn_A": 0.585,
+    "hgb_A": 0.315,
+    "pathcrf": 0.1
+  },
+  "w_live": {
+    "tcn_B": 0.38,
+    "hgb_B": 0.57,
+    "pathcrf_macro": 0.05
+  },
+  "viterbi": {
+    "c_team": 5.0,
+    "c_dead": 30.0,
+    "temp": 1.0
+  },
+  "external_benchmark_summary": {
+    "baseline_2model_spell_f1": 0.692,
+    "baseline_2model_macro_f1": 0.8443,
+    "nested_lomo_3model_spell_f1": 0.7215,
+    "nested_lomo_3model_macro_f1": 0.8492,
+    "nested_lomo_delta_spell_f1": 0.0295,
+    "best_uniform_spell_f1": 0.7398,
+    "selected_3model_in_grid_spell_f1": 0.7502,
+    "selected_3model_in_grid_macro_f1": 0.8526,
+    "in_grid_delta_spell_f1": 0.0582,
+    "grid_selection_optimism_spell_f1": 0.0287
+  }
+}

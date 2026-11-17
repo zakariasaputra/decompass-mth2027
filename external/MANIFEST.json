@@ -1,0 +1,126 @@
+{
+  "fetch_log.txt": {
+    "bytes": 5806,
+    "sha256": "536aec60e99c4d2f2648562374271c91d7f150554a4c65e58ee348c4a2ffdc8d"
+  },
+  "idsse/DFL_02_01_matchinformation_DFL-COM-000001_DFL-MAT-J03WMX.xml": {
+    "bytes": 11930,
+    "sha256": "a884728647a564cf8b20e5223a1d04a5da6f6725e1e506c8651505327c197ba9"
+  },
+  "idsse/DFL_02_01_matchinformation_DFL-COM-000001_DFL-MAT-J03WN1.xml": {
+    "bytes": 11722,
+    "sha256": "5490286436c86e6f80a538d2b1b379d0efd016e0defcaf594bc59d9ef5079f4c"
+  },
+  "idsse/DFL_02_01_matchinformation_DFL-COM-000002_DFL-MAT-J03WOH.xml": {
+    "bytes": 11745,
+    "sha256": "f23b3ee13b988b1ff9a0bce438c416dac47e71355bbc7ee1dab21aaf3e33c18c"
+  },
+  "idsse/DFL_02_01_matchinformation_DFL-COM-000002_DFL-MAT-J03WOY.xml": {
+    "bytes": 11952,
+    "sha256": "4c497fac683eee8292901c18ca02c0be1d9609d0b9d4bd8aa092c61f9e0b19e9"
+  },
+  "idsse/DFL_02_01_matchinformation_DFL-COM-000002_DFL-MAT-J03WPY.xml": {
+    "bytes": 11922,
+    "sha256": "566dd5e4c86e124ab90fcdba51100881f0436e22afa71832945a451a2d95a420"
+  },
+  "idsse/DFL_02_01_matchinformation_DFL-COM-000002_DFL-MAT-J03WQQ.xml": {
+    "bytes": 11932,
+    "sha256": "e976aa0c5dba862cfa898ea57ec226efce9d1bc04b23b8d775908db86aa6fa41"
+  },
+  "idsse/DFL_02_01_matchinformation_DFL-COM-000002_DFL-MAT-J03WR9.xml": {
+    "bytes": 11823,
+    "sha256": "429b584e89df3e3e8b81f4bd0d004b38bd0b4298bb390b8fb43efccb60963e01"
+  },
+  "idsse/DFL_03_02_events_raw_DFL-COM-000001_DFL-MAT-J03WMX.xml": {
+    "bytes": 776578,
+    "sha256": "6f9741ea62e9dee35b604942e1dad2ac0a4dc3fce14ef2f3858aa12b74dafe00"
+  },
+  "idsse/DFL_03_02_events_raw_DFL-COM-000001_DFL-MAT-J03WN1.xml": {
+    "bytes": 612114,
+    "sha256": "d7fa1d4445e3215eb79ec62fabefa4779b4974e496195c2fdc25624c375a9b9b"
+  },
+  "idsse/DFL_03_02_events_raw_DFL-COM-000002_DFL-MAT-J03WOH.xml": {
+    "bytes": 635747,
+    "sha256": "abc27e3268e6126fb3e6e90bff5cca8d4586a5e0cefe9bd59bf32871e89d8544"
+  },
+  "idsse/DFL_03_02_events_raw_DFL-COM-000002_DFL-MAT-J03WOY.xml": {
+    "bytes": 683018,
+    "sha256": "dbb014df1b80d5c99b7fb806a278432c445a5fdd99f59d379d601f20eaf7e142"
+  },
+  "idsse/DFL_03_02_events_raw_DFL-COM-000002_DFL-MAT-J03WPY.xml": {
+    "bytes": 698898,
+    "sha256": "e440a3adf9a38d3e4ce4289343a59a3b5f76018a78e97c765114f7817591fb3c"
+  },
+  "idsse/DFL_03_02_events_raw_DFL-COM-000002_DFL-MAT-J03WQQ.xml": {
+    "bytes": 732186,
+    "sha256": "b79ccc1ee3de5ba662546a9a21304784642d00a791ccc1175550eaa463ea0074"
+  },
+  "idsse/DFL_03_02_events_raw_DFL-COM-000002_DFL-MAT-J03WR9.xml": {
+    "bytes": 681050,
+    "sha256": "31735a2d7b9008c44cae9b6ac43ab38ddeaa435d0416265ec0ebfebf53b3c982"
+  },
+  "idsse/DFL_04_03_positions_raw_observed_DFL-COM-000001_DFL-MAT-J03WMX.xml": {
+    "bytes": 418524833,
+    "sha256": "d3dd92e509421a6466acb0a083c009035f1751bc5fd9ef42ffa8f20d01cf7d49"
+  },
+  "idsse/DFL_04_03_positions_raw_observed_DFL-COM-000001_DFL-MAT-J03WN1.xml": {
+    "bytes": 391722803,
+    "sha256": "56ef948961a18e150dba0b7b16869d0008ff66f3050a0c355d31fa5b8ec2fcec"
+  },
+  "idsse/DFL_04_03_positions_raw_observed_DFL-COM-000002_DFL-MAT-J03WOH.xml": {
+    "bytes": 348945715,
+    "sha256": "ec4dcf30200aad694dea263d5289485fcd0ca42badddaeb7c81f5cd5a4229d4f"
+  },
+  "idsse/DFL_04_03_positions_raw_observed_DFL-COM-000002_DFL-MAT-J03WOY.xml": {
+    "bytes": 362567859,
+    "sha256": "a228ef0e676d009cefff1580fcb721b53f598454eb120ec347e0a628a3a4646b"
+  },
+  "idsse/DFL_04_03_positions_raw_observed_DFL-COM-000002_DFL-MAT-J03WPY.xml": {
+    "bytes": 371688499,
+    "sha256": "845202c29ad93d696653436da426a7cdaefb848298e07b7343de6529581671e1"
+  },
+  "idsse/DFL_04_03_positions_raw_observed_DFL-COM-000002_DFL-MAT-J03WQQ.xml": {
+    "bytes": 356219423,
+    "sha256": "cbefcb0bd7f39f3b94ee69a7bc97aac0f936425062c1cc1b144733df36804d6f"
+  },
+  "idsse/DFL_04_03_positions_raw_observed_DFL-COM-000002_DFL-MAT-J03WR9.xml": {
+    "bytes": 372934140,
+    "sha256": "70b63069189019066fb7e3d9db891122edfe787f3a43ba522ebe45ed89ea0269"
+  },
+  "metrica/Sample_Game_1/Sample_Game_1_RawEventsData.csv": {
+    "bytes": 139446,
+    "sha256": "097dda6345e17390dca095331458fd00e47960c480c76f4356fd4edf2575ef05"
+  },
+  "metrica/Sample_Game_1/Sample_Game_1_RawTrackingData_Away_Team.csv": {
+    "bytes": 32782073,
+    "sha256": "0a3df68a92af0290ede472e62de3b6489ddee29223da09bdf0cf76c8e0ab0618"
+  },
+  "metrica/Sample_Game_1/Sample_Game_1_RawTrackingData_Home_Team.csv": {
+    "bytes": 32782961,
+    "sha256": "0a3d0eff7785950379c587d3597b86a2d91c2492281b4652e1abb97c99b6b364"
+  },
+  "metrica/Sample_Game_2/Sample_Game_2_RawEventsData.csv": {
+    "bytes": 153897,
+    "sha256": "edf31a18599265b77a8baf150f2ce6d89456fb0324b62ea7a391229657a619ba"
+  },
+  "metrica/Sample_Game_2/Sample_Game_2_RawTrackingData_Away_Team.csv": {
+    "bytes": 29627711,
+    "sha256": "aa639f40762eade46c389020fe4458266b5ba14027b1e96e22e75db62803718b"
+  },
+  "metrica/Sample_Game_2/Sample_Game_2_RawTrackingData_Home_Team.csv": {
+    "bytes": 31890338,
+    "sha256": "3f9990ac204b07133e4202441d6fcbb386897c7c7f81e1bc3ce4d35bc8644694"
+  },
+  "metrica/Sample_Game_3/Sample_Game_3_events.json": {
+    "bytes": 1709486,
+    "sha256": "28a53bfe9eaf32535362335553d517cdce0eabb588af6166009081753751f4e0"
+  },
+  "metrica/Sample_Game_3/Sample_Game_3_metadata.xml": {
+    "bytes": 81806,
+    "sha256": "009c7dcfcb66192014917ca1559c158f612353e390eafb85f8214b06a1c7dec1"
+  },
+  "metrica/Sample_Game_3/Sample_Game_3_tracking.txt": {
+    "bytes": 53443115,
+    "sha256": "570e6ce82c2d93bc92723af331d93c31110bec1d6dc0be07c6d44ca3f981d658"
+  }
+}

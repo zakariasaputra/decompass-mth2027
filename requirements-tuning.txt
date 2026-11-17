@@ -1,0 +1,6 @@
+# Extra packages for optional external retraining/sweep tools (tools/fetch_external.py, tools/sweep_ensemble_weights.py).
+# Not needed to regenerate the submission.
+-r requirements-pipeline.txt
+kloppy==3.19.1
+pytest
+

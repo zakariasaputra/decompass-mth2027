@@ -1,0 +1,9 @@
+# Everything needed to regenerate the submission from ./data with run_pipeline.py.
+# Tested on Python 3.12 (3.12.10).
+# (requirements.txt is the official scorer's own file and is intentionally left untouched.)
+numpy==2.5.1
+pandas==3.0.3
+scipy==1.18.0
+scikit-learn==1.9.1
+joblib==1.5.3
+torch==2.15.0
