@@ -67,7 +67,7 @@ python run_pipeline.py --rebuild-cache --out submission/Decompass.csv
 python evaluation/validate_submission.py submission/Decompass.csv
 ```
 
-See [TECHNICAL_DOCUMENT.md](TECHNICAL_DOCUMENT.md) for architecture, training datasets, possession rules, and limitations, and [external/LICENSES.md](external/LICENSES.md) for dataset and pretrained-model attribution.
+Architecture, training datasets, possession rules and limitations are covered in the technical document submitted with the entry. See [external/LICENSES.md](external/LICENSES.md) for dataset and pretrained-model attribution.
 
 ---
 
